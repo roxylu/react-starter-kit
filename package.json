@@ -1,7 +1,8 @@
 {
-  "name": "react-starter-kit",
-  "description": "A boilerplate React application using Webpack, react-router, and per-component CSS files.",
-  "version": "0.2.1",
+  "name": "who-is-next",
+  "version": "1.0.0",
+  "description": "Who is next triager?",
+  "author": "SH-IT",
   "license": "MIT",
   "repository": {
     "type": "git",
