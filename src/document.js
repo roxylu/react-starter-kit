@@ -4,6 +4,7 @@ module.exports = `<!doctype html>
 	<meta name='viewport' content='width=device-width, initial-scale=1'>
 	<title></title>
 	<link rel="stylesheet" href='/dist/main.css'>
+	<link rel="stylesheet" href='/dist/style.css'>
 	<body>
 		<div id='react-root'></div>
 		<script src='/dist/main.js'></script>

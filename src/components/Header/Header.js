@@ -7,7 +7,7 @@ export default React.createClass({
 			<header className='Header'>
 				<ul>
 					<li>
-						<Link to='/' activeClassName='is-active' onlyActiveOnIndex={true}><i className='Header_home-icon fa fa-home'/> Home</Link>
+						<Link to='/' activeClassName='is-active' onlyActiveOnIndex={true}><i className='Header_home-icon fa fa-user-circle'/> User</Link>
 					</li>
 					<li>
 						<Link to='/about' activeClassName='is-active'>About</Link>
