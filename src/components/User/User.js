@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Hero from '../Hero/';
-import { Text, Switch } from 'mintel-react-ui';
+import { Text, TextInput } from 'mintel-react-ui';
 import DocTitle from 'react-document-title';
 
 export default class User extends Component {
@@ -24,6 +24,7 @@ export default class User extends Component {
 			<div className='User'>
 				<DocTitle title='User Page'/>
                 <Text>hi</Text>
+                <TextInput showIcon={false} />
             </div>
 		);
 	}
